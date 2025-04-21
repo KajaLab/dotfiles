@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kaja-pittet@outlook.com
+	name = Kaja-Ness Pittet
